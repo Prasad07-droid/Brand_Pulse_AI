@@ -7,3 +7,4 @@ __pycache__/
 *.keras
 *.pkl
 .env
+backend/data/cleaned_brands.csv
