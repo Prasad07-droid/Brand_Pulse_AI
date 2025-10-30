@@ -1,0 +1,9 @@
+venv/
+backend/venv/
+frontend/venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.keras
+*.pkl
+.env
